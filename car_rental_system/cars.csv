@@ -1,0 +1,7 @@
+Car_ID,License_Plate,Make,Model,Year,Seating_Capacity,Fuel_Type,Gearbox,Condition,Kilometers_Driven,Rent(per_day),Fine(per_day),Status(Rented),Rented_On,Due_Date,User_Type,ID,
+12,PB13AT9456,Porsche,911,2022,2,Petrol,Automatic,8,7040,12000,15000,no,,,,0,
+13,PB13U4656,Jeep,Compass,2021,5,Diesel,Automatic,7,12500,4000,6000,yes,01-03-2024,7-3-2024,Employee,6,
+14,DL62T7190,Honda,City,2023,5,Petrol,Manual,10,1560,3000,5000,no,,,,0,
+15,HR56Y1289,MercedesBenz,G-Wagon,2020,4,Petrol,Automatic,8,16065,11000,13500,no,,,,0,
+16,DL78TU5628,BMW,M4 Competition,2022,4,Petrol,Manual,8,8300,10000,12000,no,,,,0,
+17,UP62U5262,Hyundai,Kona,2022,5,Electric,Automatic,6,18500,6000,8000,no,,,,0,
