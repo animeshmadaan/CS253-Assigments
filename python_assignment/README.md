@@ -10,3 +10,4 @@ Among the different models implemented in this assignment, the k-Nearest Neighbo
 
 - `models/`: Contains Python scripts for implementing different machine learning models.
 - `plots/`: Contains scripts for data visualization and plotting.
+- `220145_Animesh_Madaan`: Report containing details of the experiment and various data insights.
